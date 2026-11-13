@@ -199,6 +199,9 @@ not fight for free ARM capacity. Full walkthroughs for Hetzner, Oracle,
 Railway, Hostinger and DigitalOcean are in
 **[docs/HOSTING.md](docs/HOSTING.md)**.
 
+**[RepoCloud](https://repocloud.io/details/All-In-One%20Free%20SEO%20Tool/)**
+has a one-click template if you'd rather not set up a server yourself.
+
 > **Vercel + Supabase or Neon won't work** — worth saying plainly,
 > because it's the obvious thing to try. The database is a local SQLite
 > file, rank checking drives a real headless browser, and the scheduler
